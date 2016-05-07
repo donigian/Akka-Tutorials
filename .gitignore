@@ -2,6 +2,8 @@
 *.log
 Hello-Akka/.idea/*
 TalkingMachinesPodcastAkkaDemo/.idea/*
+TheWatchDog/.idea/*
+TheRelentlessManager/.idea/*
 
 # sbt specific
 .cache
